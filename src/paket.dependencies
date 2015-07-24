@@ -8,3 +8,5 @@ nuget BCrypt-Official
 nuget Microsoft.AspNet.SignalR.Owin
 nuget Microsoft.Owin.Host.SystemWeb
 nuget Microsoft.Owin.StaticFiles
+nuget microsoft.aspnet.webapi 5.2.3
+nuget microsoft.aspnet.webapi.owin 5.2.3
